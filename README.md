@@ -438,6 +438,15 @@ During Phase 1, I completed the following:
 
 ## Phase 1 — Active Directory Foundation
 
+Phase 1 covers the initial Active Directory build, including OU design, users, security groups, PowerShell automation, Domain Controllers, replication, and the Windows 11 domain client.
+
+[View Phase 1 Documentation](docs/phase-1-active-directory.md)
+
+Additional documentation:
+
+- [AD User Provisioning with PowerShell](docs/phase-1-user-automation.md)
+- [Domain Controller Replication](docs/domain-controller-replication.md)
+
 **Completed**
 
 ## Phase 2 — Group Policy Fundamentals
